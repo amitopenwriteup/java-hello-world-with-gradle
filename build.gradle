@@ -27,8 +27,9 @@ dependencies {
 }
 // end::dependencies[]
 
-// tag::wrapper[]
+// Remove or comment out this section if it already exists in your Gradle setup
+/*
 task wrapper(type: Wrapper) {
     gradleVersion = '3.5'
 }
-// end::wrapper[]
+*/
